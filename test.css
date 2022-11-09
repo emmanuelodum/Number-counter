@@ -1,0 +1,20 @@
+body {
+  background: crimson;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  text-decoration: transparent;
+  font-size: 3em;
+}
+span {
+  text-align: center;
+  color: white;
+  font-size: 5em;
+  padding: 650px;
+}
+.button-container {
+  text-align: center;
+  margin-top: 100px;
+}
